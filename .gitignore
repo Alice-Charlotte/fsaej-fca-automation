@@ -1,0 +1,8 @@
+# Official FSAEJ files are NOT redistributed in this repository
+*.xlsx
+# Generated output
+SITFP_FCA_generated.xlsx
+__pycache__/
+
+
+
